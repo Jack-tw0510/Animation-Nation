@@ -6058,6 +6058,13 @@ let cards = [
     author: "Sugus",
     githubLink: "https://github.com/sugugrassi",
   },
+  {
+    artName: "Animatron",
+    pageLink: "./Art/animatron/index.html",
+    imageLink: "./Art/animatron/trance.gif",
+    author: "Jack",
+    githubLink: "https://github.com/Jack-tw0510",
+  }
 ];
 
 
